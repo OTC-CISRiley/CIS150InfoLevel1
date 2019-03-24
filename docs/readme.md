@@ -2,7 +2,7 @@
 [TFS Quick Reference - Connect to TFS](ConnecttoTFS.pdf)
 
 1.	Connect to tfs
-2.	Create a new project – check the add to source control box
+2.	Create a new project – check the add to source control check box
 
         static void Main(string[] args)
         {
@@ -28,9 +28,9 @@
 
 
 
-3.	Code the project and check it in and commit to tfs
+3.	Code the project and check it in to tfs
 4.	Verify the tfs checkin using the source control explorer in Team explorer
-5.	Raise your hand to show the instructor your valid tfs checkin
-a.	You will receive 
+5.	Raise your hand to show the instructor your valid tfs checkin (you will receive level 2 info)
+ 
 6.	Log off the computer
 7.	Log onto a different computer before beginning the next level.
