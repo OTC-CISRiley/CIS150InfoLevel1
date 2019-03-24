@@ -1,6 +1,14 @@
 # Hello!
+
+## Welcome to the TFS Treasure Hunt
+The payload is stashed in GitHub, and must be properly stored in TFS.
+
+## TFS Quick Reference
+TFS is pretty simple to use, but you may need to refer to this Quick Reference while you learn.
+
 [TFS Quick Reference - Connect to TFS](ConnecttoTFS.pdf)
 
+## Begin Level 1
 1.	Connect to tfs
 2.	Create a new project – check the add to source control check box
 
