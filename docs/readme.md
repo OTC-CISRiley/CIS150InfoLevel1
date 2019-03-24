@@ -49,4 +49,4 @@ TFS is pretty simple to use, but you may need to refer to this Quick Reference w
 6.	Log off the computer
 7.	Log onto a different computer before beginning the next level.
 
-![TFS Treasure](qr-treasure.png)
+![TFS Treasure](qrcd-treasure.png)
