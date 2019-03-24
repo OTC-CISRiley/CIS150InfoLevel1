@@ -11,6 +11,9 @@ TFS is pretty simple to use, but you may need to refer to this Quick Reference w
 ## Begin Level 1
 1.	Connect to tfs
 2.	Create a new project – check the add to source control check box
+- this project uses an array to save web url's
+- use your desk checking skills to see if you can determine what string is saved in each array entry
+- run the debugger to validate your expected array contents
 
         static void Main(string[] args)
         {
