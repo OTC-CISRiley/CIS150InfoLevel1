@@ -1,2 +1,2 @@
 # Hello!
-[Connect to TFS](Connect to TFS.PDF)
+[Connect to TFS](Connect to TFS.pdf)
