@@ -11,9 +11,8 @@ TFS is pretty simple to use, but you may need to refer to this Quick Reference w
 ## Begin Level 1
 1.	Connect to tfs
 2.	Create a new project – check the add to source control check box
-- this project uses an array to save web url's
-- use your desk checking skills to see if you can determine what string is saved in each array entry
-- run the debugger to validate your expected array contents
+- the check box adds the project to tfs control as the project is created
+- you can use the file menu to add the project to source control at a later time
 
         static void Main(string[] args)
         {
@@ -40,6 +39,9 @@ TFS is pretty simple to use, but you may need to refer to this Quick Reference w
 
 
 3.	Code the project and check it in to tfs
+- this project uses an array to save web url's
+- use your desk checking skills to see if you can determine what string is saved in each array entry
+- run the debugger to validate your expected array contents
 4.	Verify the tfs checkin using the source control explorer in Team explorer
 5.	Raise your hand to show the instructor your valid tfs checkin (you will receive level 2 info)
  
