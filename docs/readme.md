@@ -49,3 +49,6 @@ TFS is pretty simple to use, but you may need to refer to this Quick Reference w
 6.	To verify that you can connect to TFS again, log onto a different computer or restart your computer before beginning the next level.
 
 ![TFS Treasure](qrcd-treasure.png)
+
+
+The image is a QR Code. A QR Code is a great way to stash a URL or other data. I used a QR code generator to create this, and you can use a QR code reader to read it. 
