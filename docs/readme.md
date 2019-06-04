@@ -48,7 +48,7 @@ TFS is pretty simple to use, but you may need to refer to this Quick Reference w
 5.	Log off the computer
 6.	To verify that you can connect to TFS again, log onto a different computer or restart your computer before using the next clue
 
-![TFS Treasure](qrcd-treasure.png)
+![TFS Treasure](qr-code-new.png)
 
 
-The clue is in a QR Code. A QR Code is a great way to stash a URL or other data. I used a QR code generator to create this, and you can use a QR code reader to read it. 
+The clue is in a QR Code. A QR Code is a great way to stash a URL or other data. I used a QR code generator to create this, and you can use a QR code reader to read it. Your phone's camera may have a built in QR code reader, or you may have to download an app.
