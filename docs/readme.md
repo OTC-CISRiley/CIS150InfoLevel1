@@ -46,7 +46,10 @@ TFS is pretty simple to use, but you may need to refer to this Quick Reference w
 - run the debugger to validate your expected array contents
 4.	Verify the tfs checkin using the source control explorer in Team explorer
 5.	Log off the computer
-6.	To verify that you can connect to TFS again, log onto a different computer or restart your computer before using the next clue
+6.	To verify that you can connect to TFS again, log onto a different computer or restart your computer 
+7.      Connect to TFS again, and use Source Control Explorer to Get Latest Version of your project
+
+Time for the next clue
 
 ![TFS Treasure](qr-code-new.png)
 
