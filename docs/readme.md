@@ -8,7 +8,7 @@ TFS is pretty simple to use, but you may need to refer to this Quick Reference w
 
 [TFS Quick Reference - Connect to TFS](ConnecttoTFS.pdf)
 
-## Begin Level 1
+## Begin Clue 1
 1.	Open Visual Studio
 2.	Connect to tfs using Team Explorer in Visual Studio
 3.	Create a new Visual Studio project – check the add to source control check box
