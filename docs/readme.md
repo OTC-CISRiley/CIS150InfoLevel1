@@ -3,7 +3,7 @@
 ## Welcome to the TFS Treasure Hunt
 The payload is stashed in GitHub, and must be properly stored in TFS.
 
-## TFS Quick Reference
+## TFS Treasure Map (Quick Reference)
 TFS is pretty simple to use, but you may need to refer to this Quick Reference while you learn.
 
 [TFS Quick Reference - Connect to TFS](ConnecttoTFS.pdf)
@@ -46,9 +46,9 @@ TFS is pretty simple to use, but you may need to refer to this Quick Reference w
 - run the debugger to validate your expected array contents
 4.	Verify the tfs checkin using the source control explorer in Team explorer
 5.	Log off the computer
-6.	To verify that you can connect to TFS again, log onto a different computer or restart your computer before beginning the next level.
+6.	To verify that you can connect to TFS again, log onto a different computer or restart your computer before using the next clue
 
 ![TFS Treasure](qrcd-treasure.png)
 
 
-The image is a QR Code. A QR Code is a great way to stash a URL or other data. I used a QR code generator to create this, and you can use a QR code reader to read it. 
+The clue is in a QR Code. A QR Code is a great way to stash a URL or other data. I used a QR code generator to create this, and you can use a QR code reader to read it. 
