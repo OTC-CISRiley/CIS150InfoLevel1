@@ -46,13 +46,13 @@ TFS is pretty simple to use, but you may need to refer to this Quick Reference w
 
 
 
-3.	Code the project and check it in to tfs
+6.	Code the project and check it in to tfs
 - this project uses an array to save web url's
 - use your desk checking skills to see if you can determine what string is saved in each array entry
 - run the debugger to validate your expected array contents
-4.	Verify the tfs checkin using the source control explorer in Team explorer and/or the TFS Web Portal
-5.	Log off the computer
-6.	To verify that you can connect to TFS again, log onto a different computer or restart your computer 
+7.	Verify the tfs checkin using the source control explorer in Team explorer and/or the TFS Web Portal
+8.	Log off the computer
+9.	To verify that you can connect to TFS again, log onto a different computer or restart your computer 
 
 
 Time for the next clue
