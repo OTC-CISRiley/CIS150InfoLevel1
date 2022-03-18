@@ -4,16 +4,22 @@
 The payload is stashed in GitHub, and must be properly stored in TFS.
 
 ## TFS Treasure Map (Quick Reference)
-TFS is pretty simple to use, but you may need to refer to this Quick Reference while you learn.
+TFS is pretty simple to use, but you may need to refer to this Quick Reference while you learn. You should save it for future use.
 
 [TFS Quick Reference - Connect to TFS](ConnecttoTFS.pdf)
 
+## Create your TFS Project Folder on the TFS Server
+1.      After creating your Folder, proceed with Clue 1
+
+
 ## Begin Clue 1
 1.	Open Visual Studio
-2.	Connect to tfs using Team Explorer in Visual Studio
-3.	Create a new Visual Studio project – check the add to source control check box
-- the check box adds the project to tfs control as the project is created
-- you can also use the file menu to add the project to source control at a later time
+2.	Choose Continue Without Code
+3.	Connect to tfs using Team Explorer in Visual Studio
+4.	Create a new Visual Studio project – note the project will be created in your Local Workspace
+- Do use the local workspace for your project location
+5.      On the File menu, choose Source Control, Add Solution to Source Control
+- Save the solution in your TFS Project folder, created earlier
 
         static void Main(string[] args)
         {
@@ -41,10 +47,10 @@ TFS is pretty simple to use, but you may need to refer to this Quick Reference w
 
 
 3.	Code the project and check it in to tfs
-- this project uses an array to save web url's, giving you a bit of a preview to our array lesson!
+- this project uses an array to save web url's
 - use your desk checking skills to see if you can determine what string is saved in each array entry
 - run the debugger to validate your expected array contents
-4.	Verify the tfs checkin using the source control explorer in Team explorer
+4.	Verify the tfs checkin using the source control explorer in Team explorer and/or the TFS Web Portal
 5.	Log off the computer
 6.	To verify that you can connect to TFS again, log onto a different computer or restart your computer 
 
