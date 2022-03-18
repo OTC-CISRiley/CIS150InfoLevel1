@@ -45,7 +45,6 @@ TFS is pretty simple to use, but you may need to refer to this Quick Reference w
         }
 
 
-
 6.	Code the project and check it in to tfs
 - this project uses an array to save web url's
 - use your desk checking skills to see if you can determine what string is saved in each array entry
