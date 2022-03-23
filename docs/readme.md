@@ -10,6 +10,7 @@ TFS is pretty simple to use, but you may need to refer to this Quick Reference w
 
 ## Create your TFS Project Folder on the TFS Server
 1.      After creating your Folder, proceed with Clue 1
+2.      This project can be used for all of your C# code, so you only need to do this once
 
 
 ## Begin Clue 1
