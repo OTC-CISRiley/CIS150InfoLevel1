@@ -21,7 +21,7 @@ TFS is pretty simple to use, but you may need to refer to this Quick Reference w
 - Do use the local workspace for your project location
 5.      On the File menu, choose Source Control, Add Solution to Source Control
 - Save the solution in your TFS Project folder, created earlier
-
+```C#
         static void Main(string[] args)
         {
         
@@ -44,7 +44,7 @@ TFS is pretty simple to use, but you may need to refer to this Quick Reference w
                 sites[i] = sitePre + i + @"0Info/";
             }
         }
-
+```
 
 6.	Code the project and check it in to tfs
 - this project uses an array to save web url's
